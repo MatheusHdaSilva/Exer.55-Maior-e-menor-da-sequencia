@@ -1,0 +1,4 @@
+Primeiro criamos o comando para coletar o peso da primeira pessoa depois colocamos dentro do for.
+Para coletar o número das 5 pessoas, depois criamos a variável do meior e menor peso.
+deixando os dois iguais a 0 por conta que no if se a primeira for igual a 1 ele é o maior peso e o menor também.
+Por conta de ser o unico peso lido até momento, (else) si não.. O peso que eu acabei de ler for maior que o peso que eu já tinha ele irá subistituir e se o peso que eu acabei de ler for menor que o peso que eu já tinha, então ele passará a ser o menor peso que eu já tinha.
